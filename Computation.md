@@ -16,7 +16,7 @@
 이 식에서 a,b,c,u,v에 대해 편미분한 값, 즉 a,b,c,u,v가 1씩 증가할 때 J는 얼마만큼 변하는지 알아보는 것이다.
 
 
-<img src="images/Computinggraph.png" >
+<img src="images/Computing graph.png" >
 
 
 
@@ -42,5 +42,3 @@ $v = a + u$에 a의 값 5와 u에 저장되어있는 6를 더하여 11이라는 
 #### 이러한 계산그래프는 J같은 특정한 출력 값 변수를 최적화 하고 싶을 때 예제에서 확인 한것 처럼 왼쪽에서 오른쪽의 패스인 정방향패스로 J의 값을 계산할 수 있어 유용하다
 
 
-
-# Vectorizing Logistic Regression
