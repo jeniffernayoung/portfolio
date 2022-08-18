@@ -16,7 +16,8 @@
 이 식에서 a,b,c,u,v에 대해 편미분한 값, 즉 a,b,c,u,v가 1씩 증가할 때 J는 얼마만큼 변하는지 알아보는 것이다.
 
 
-<그림 넣을 곳>
+<img src="images/Computinggraph.png" >
+
 
 
 
