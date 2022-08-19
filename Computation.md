@@ -8,8 +8,8 @@
 
 ## 함수 J를 계산하는 방법
 *   함수는 변수 세 개 A, B, C를 가졌다
-*   함수 3(a + b*c)
-
+*   함수 3(a + b\tiemsc)
+<img src="images/Computing graph.png" >
 
 ### J의 식인 $J(a,b,c) = 3(a +b\times c)$를 쉽게 생각 하면
 #### $J =3(a + b\times c),  u = b\times c,  v = a+b\times c$ 
@@ -26,7 +26,7 @@
 
 
 
-<img src="images/Computing graph.png" >
+
 
 
 예시를 들어 세단계로 계산 그래프를 나타 낼수 있다.
