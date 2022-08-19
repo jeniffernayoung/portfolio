@@ -7,12 +7,12 @@
 *   역방향 전파는 이러어져 경사나 도함수 계산
 
 ## 함수 J를 계산하는 방법
-*   함수는 변수 세 개 A, B, C를 가졌다
+*   함수는 변수 세 개 a, b, c를 가졌다
 *   함수 3(a + b\tiemsc)
 <img src="images/Computing graph.png" >
 
 ### J의 식인 $J(a,b,c) = 3(a +b\times c)$를 쉽게 생각 하면
-#### $J =3(a + b\times c),  u = b\times c,  v = a+b\times c$ 
+### $J =3(a + b\times c),  u = b\times c,  v = a+b\times c$ 
 이 식에서 a,b,c,u,v에 대해 편미분한 값, 즉 a,b,c,u,v가 1씩 증가할 때 J는 얼마만큼 변하는지 알아보는 것이다.
 
 
